@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(60deg,grey,white);
+    padding:40px;
+    margin:10px;
+    
+}
+ul li{
+    font-size:20px;
+}
+p{
+    font-size:25px;
+}
+h1{
+    text-decoration: underline;
+}
+.personal{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+.table{
+    text-align: center;
+    /*border:3px solid black;*/
+}
+#first{
+background-color: blueviolet;
+}
+#fourth{
+    background-color: slateblue;
+}
+#second{
+background-color: rgb(4, 118, 122);
+}
+#third{
+background-color:tan;
+}
